@@ -1,0 +1,27 @@
+.main-ni {
+  font-weight: bold;
+  font-size: 30px;
+  color: rgba(0, 0, 0, 0);
+  text-shadow: 3px 3px 0 #cd5;
+  -webkit-text-stroke: 1px #888;
+  text-stroke: 1px #888;
+  padding: 0 0 10px;
+  text-align: center;
+  width: auto;
+}
+p {
+  text-align: center;
+}
+@media screen and (max-width: 480px) {
+  .main-ni {
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0);
+    text-shadow: 2px 2px 0 #cd5;
+    -webkit-text-stroke: 1px #888;
+    text-stroke: 1px #888;
+    padding: 0 0 10px;
+    text-align: center;
+    width: auto;
+  }
+}

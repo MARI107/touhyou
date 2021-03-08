@@ -5,3 +5,4 @@
 投票結果が見れます！<br>
 
 
+https://mari7717.sakura.ne.jp/mari.pfile/syoukaipe-ji/touhyoup/index.php
